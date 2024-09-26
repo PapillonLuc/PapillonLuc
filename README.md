@@ -1,7 +1,7 @@
 # 👋 Hello, I’m LUC ! </br> 
 ## <b>Conseiller en formation chez MyDigitalSchool </br> Freelance création de site internet </b></br>
 
-🎓 Parcours académique</br>
+## 🎓 Parcours académique</br>
 2024 - Conseiller en formation à MyDigitalSchool.
 2023 Bachelor Webmarketing - Une formation qui m'a permis de comprendre les mécanismes de la communication digitale et du marketing en ligne.
 2020-2022 BTS SIO (SLAM) - Option Développement Web, où j’ai acquis de solides compétences en programmation .
