@@ -7,7 +7,7 @@
 2020-2022 BTS SIO (SLAM) - Option Développement Web, où j’ai acquis de solides compétences en programmation .
 
 ## 💼 Expérience professionnelle</br>
-Conseiller en formation | MyDigitalSchool
+Conseiller en formation | MyDigitalSchool </br>
 Depuis mon arrivée chez MyDigitalSchool, j'accompagne les futurs talents du numérique dans leurs parcours de formation, en les guidant vers des carrières prometteuses dans le développement web, le webmarketing et d'autres secteurs innovants.
 
 Freelance | Création de sites internet</br>
