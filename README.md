@@ -1,5 +1,5 @@
 # 👋 Hello, I’m LUC ! </br> 
-## <b>Conseiller en formation chez MyDigitalSchool </br> Freelance en développement web </b></br>
+## <b>Conseiller en formation chez MyDigitalSchool </br> Freelance création de site internet </b></br>
 
 🎓 Parcours académique</br>
 2024 - Conseiller en formation à MyDigitalSchool.
