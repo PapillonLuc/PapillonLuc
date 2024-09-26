@@ -7,13 +7,15 @@
 2020-2022 BTS SIO (SLAM) - Option Développement Web, où j’ai acquis de solides compétences en programmation .
 
 ## 💼 Expérience professionnelle</br>
-Conseiller en formation | MyDigitalSchool </br>
-Depuis mon arrivée chez MyDigitalSchool, j'accompagne les futurs talents du numérique dans leurs parcours de formation, en les guidant vers des carrières prometteuses dans le développement web, le webmarketing et d'autres secteurs innovants.
+2024 - Aujourd'hui | Conseiller en formation | MyDigitalSchool </br>
+Depuis mon arrivée chez MyDigitalSchool, j'accompagne les futurs talents du numérique dans leurs parcours de formation, en les guidant vers des carrières prometteuses dans le développement web, le webmarketing et d'autres secteurs innovants.</br></br>
 
-Freelance | Création de sites internet</br>
-En parallèle, je développe des sites web pour des clients variés, allant de petites entreprises locales à des projets plus complexes. J'utilise les dernières technologies pour créer des sites modernes et performants.
+2022 - 2024 Chargé de Communication | Château de Cremat </br>
 
-Chargé de Communication | Château de Cremat </br>
+2021 - Aujourd'hui | Freelance | Création de sites internet</br>
+En parallèle, je construit des sites web pour des clients variés, allant de petites entreprises locales à des projets plus complexes. </br></br>
+
+
 
 ## 💻 Compétences techniques</br>
 Langages de programmation : HTML, CSS, JavaScript, PHP, SQL</br>
